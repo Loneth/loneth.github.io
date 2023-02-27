@@ -1,0 +1,22 @@
+.d-flex {
+    display: flex;
+}
+
+.justify-content-center {
+    align-items: center;
+    justify-content: center;
+}
+
+table {
+    border-style: none;
+}
+
+tr > th {
+    background-color: antiquewhite;
+    border-style: hidden;
+}
+
+#kalender-data {
+    width: 100%; 
+    text-align: center;
+}
